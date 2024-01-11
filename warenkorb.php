@@ -50,7 +50,7 @@ $cart = new lib\Cart(); // Erstelle eine Instanz der Cart-Klasse
 </section>
 
 <footer>
-    <a href="js/index.php">Zurück zum Shop</a> <!-- Stellen Sie sicher, dass Sie den richtigen Pfad angeben -->
+    <a href="index.php">Zurück zum Shop</a> <!-- Stellen Sie sicher, dass Sie den richtigen Pfad angeben -->
 </footer>
 </body>
 </html>
