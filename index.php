@@ -20,8 +20,9 @@ global $cartItems;
         <div class="cart-icon"><a href="warenkorb.php">&#128722;</a></div>
     </div>
 </header>
-<div>
-    <h2>Unser Sortiment:</h2>
+
+<h2 class="shoptitle">Unser Sortiment:</h2>
+<div class="shop">
     <?php
     include "lib/BookManager.php";
     ?>
