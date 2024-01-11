@@ -17,7 +17,7 @@ global $cartItems;
 <header>
     <div class="topbar">
         <h1>Buchkaufen machen</h1>
-        <div class="cart-icon"><a href="warenkorb.html">&#128722;</a></div>
+        <div class="cart-icon"><a href="warenkorb.php">&#128722;</a></div>
     </div>
 </header>
 <div>
