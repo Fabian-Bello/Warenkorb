@@ -1,5 +1,8 @@
 <?php
+
 namespace lib;
+
+require_once 'Cart.php';
 
 $cart = new Cart();
 
@@ -12,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $cart->add($book, $quantity);
     } elseif (isset($_POST['remove-from-cart'])) {
         $bookId = $_POST['book-id'];
-        $cart->remove($bookId);
+        $cart->remove($bookId);;
     }
 }
 ?>
