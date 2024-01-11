@@ -43,7 +43,7 @@ $cart = new lib\Cart(); // Erstelle eine Instanz der Cart-Klasse
             </div>
             <?php
         }
-        // Gesamtsumme anzeigen
+
         echo '<p><strong>Gesamtsumme: ' . $cart->getTotalPrice() . ' €</strong></p>';
     }
     ?>
