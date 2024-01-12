@@ -16,7 +16,8 @@ global $cartItems;
 <body>
 <header>
     <div class="topbar">
-        <h1>Buchkaufen machen</h1>
+        <img src="images/knossi.jpg" width="150px" height="150px" style="margin-left: 10px">
+        <h1>Knossis Buchshop</h1>
         <div class="cart-icon"><a href="warenkorb.php">&#128722;</a></div>
     </div>
 </header>
@@ -26,8 +27,10 @@ global $cartItems;
     <?php
     include "lib/BookManager.php";
     ?>
+
 </div>
 <footer>
+
 </footer>
 </body>
 </html>
