@@ -17,4 +17,14 @@
 {"id":17,"title":"Hatity","price":"5.41","stock":1},
 {"id":18,"title":"Latlux","price":"37.97","stock":8},
 {"id":19,"title":"Cardguard","price":"26.13","stock":6},
-{"id":20,"title":"Flexidy","price":"15.27","stock":1}]
+{"id":20,"title":"Flexidy","price":"15.27","stock":1},
+  {"id":21,"title":"TechGloves","price":"12.99","stock":5},
+  {"id":22,"title":"AquaVista","price":"34.50","stock":2},
+  {"id":23,"title":"EcoCleaner","price":"8.75","stock":9},
+  {"id":24,"title":"SportBlitz","price":"19.95","stock":6},
+  {"id":25,"title":"FreshHarvest","price":"22.49","stock":3},
+  {"id":26,"title":"MindSculpt","price":"42.80","stock":8},
+  {"id":27,"title":"SolarBurst","price":"29.99","stock":5},
+  {"id":28,"title":"OrganicCharm","price":"15.20","stock":12},
+  {"id":29,"title":"StylishSpectacles","price":"18.45","stock":7},
+  {"id":30,"title":"HerbCraft","price":"25.30","stock":4}]
